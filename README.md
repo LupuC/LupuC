@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MyHourBoost](https://github.com/LupuC/NodeJS-SteamIdler-Web-App)
 
-- 🌱 I’m currently learning **C++, Python, JS, ReactJS, Java.**
+- 🌱 I’m currently learning **Python, JS, ReactJS.**
 
 - 👨‍💻 All of my projects are available at [https://lupucl.com/](https://lupucl.com/)
 
