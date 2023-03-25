@@ -1,4 +1,4 @@
-### <div align="center">I'm Claudiu, a student, trader & front-end developer 👨‍💻</div>  
+### <div align="center">I'm Claudiu, a student & front-end developer 👨‍💻</div>  
   
 
 - 🔭 Current project I'm working on: [Steam Web Idler V2](https://github.com/LupuC/Steam-Web-Idler-V2)  
