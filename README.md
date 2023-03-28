@@ -1,9 +1,7 @@
 ### <div align="center">I'm Claudiu, a student & front-end developer 👨‍💻</div>  
   
 
-- 🔭 Current project I'm working on: [Steam Web Idler V2](https://github.com/LupuC/Steam-Web-Idler-V2)  
-
-- 🌱 Learning React and more NodeJS  
+- 🌱 Learning React, NextJS, TypeScript and more NodeJS  
 
 - 👨‍💻 All of my projects are available at https://lupucl.com/  
 
