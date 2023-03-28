@@ -2,9 +2,7 @@
   
 
 - 🌱 Learning React, NextJS, TypeScript and more NodeJS  
-
 - 👨‍💻 All of my projects are available at https://lupucl.com/  
-
 - 📫 You can reach me at: contact@lupucl.com  
   
 <br/>  
