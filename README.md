@@ -8,7 +8,7 @@
 
 # 💻 Tech Stack:
 <div class="frontend-stack">
-  <p>frontend:/p>
+  <p>frontend:</p>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="Next JS" />
