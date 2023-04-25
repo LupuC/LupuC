@@ -11,8 +11,8 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=lupuc&theme=gotham&show_icons=true&hide_border=true&count_private=true" width="300" height="200" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lupuc&theme=gotham&hide_border=true&disable_animation=false" width="300" height="200"/>
+<img src="https://github-readme-stats.vercel.app/api?username=lupuc&theme=gotham&show_icons=true&hide_border=true&count_private=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lupuc&theme=gotham&hide_border=true&disable_animation=false"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lupuc&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact&disable_animation=false"/>
 </div>
 
