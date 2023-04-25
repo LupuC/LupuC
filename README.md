@@ -25,7 +25,9 @@
     [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) &bull;
     [Python](https://www.python.org/)
   </p>
-</div>mg.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white)
+</div>
+
+mg.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat&logo=digitalOcean&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=lupuc&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lupuc&theme=dark&hide_border=false)<br/>
