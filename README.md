@@ -46,5 +46,5 @@
 
 ---
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=lupucl&icon=2&color=8"/>
-</div>
+<img src="https://komarev.com/ghpvc/?username=lupuc&&style=flat-square" align="center" />
+</div> 
