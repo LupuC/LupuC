@@ -46,5 +46,5 @@
 
 ---
 <div align="center">
-  [![](https://visitcount.itsvg.in/api?id=lupucl&icon=2&color=8)](https://visitcount.itsvg.in)
+  <img src="https://visitcount.itsvg.in/api?id=lupucl&icon=2&color=8"/>
 </div>
