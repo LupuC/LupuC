@@ -46,5 +46,5 @@
 
 ---
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=lupuc&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=lupuc&&style=flat&label=Visits" align="center" />
 </div> 
