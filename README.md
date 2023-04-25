@@ -46,5 +46,7 @@
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lupuc&&style=flat&label=Visits" align="center" />
+  <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=lupuc&label=Visits&color=12&icon=2&pretty=true" />
+</a>
 </div> 
