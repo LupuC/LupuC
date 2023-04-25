@@ -6,7 +6,7 @@
 📫 For any inquiries, please contact me via email at contact@lupucl.com.
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <div class="frontend-stack">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
@@ -29,7 +29,7 @@
 </div>
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 <div align="center">
   <div style="display: block;">
     <img src="https://github-readme-stats.vercel.app/api?username=lupuc&theme=gotham&show_icons=true&hide_border=true&count_private=true" width="375"/>
