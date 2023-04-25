@@ -1,4 +1,4 @@
-### <div align="center">👋 I'm Claudiu, a student & front-end developer 👨‍💻</div>  
+### <div align="center">👋 I'm Claudiu, a student & fullstack developer 👨‍💻</div>  
 
 ## 💫 About Me:
 🌱 I am currently expanding my knowledge by studying React, NextJS, TypeScript, and NodeJS.<br>
