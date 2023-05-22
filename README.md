@@ -1,9 +1,9 @@
-### <div align="center">👋 I'm Claudiu, a student & fullstack developer 👨‍💻</div>  
+### <div align="center">👋 I'm Claudiu, a student & front-end developer 👨‍💻</div>  
 
 ## 💫 About Me:
 🌱 I am currently expanding my knowledge by studying React, NextJS, TypeScript, and NodeJS.<br>
-💻 My portfolio of projects is accessible at https://lupucl.com/.<br>
-📫 For any inquiries, please contact me via email at contact@lupucl.com.
+💻 My portfolio of projects is accessible at https://lupucl.me/.<br>
+📫 For any inquiries, please contact me via email at contact@lupucl.me.
 
 
 ## 💻 Tech Stack:
