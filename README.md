@@ -6,4 +6,5 @@
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/-PHP-3776AB?style=flat&logo=php&logoColor=white" alt="PHP" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=php&logoColor=white" alt="Python" />
 </div>
